@@ -149,5 +149,5 @@
 <a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
 
 # Building
-See [YTLitePlus/Building - Wiki](https://github.com/Balackburn/YTLitePlus/wiki/Building
-and [Decrypted IPAs by qnblackcat](https://github.com/qnblackcat/Decrypted-IPAs)
+See [YTLitePlus/Building - Wiki](https://github.com/Balackburn/YTLitePlus/wiki/Building) 
+and [Decrypted IPAs](https://github.com/qnblackcat/Decrypted-IPAs)
